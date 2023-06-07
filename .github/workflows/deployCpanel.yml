@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.webdevfolio.com
         username: ftpgitsample@webdevfolio.com
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.FTP_PASSWORD }}
